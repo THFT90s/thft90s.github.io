@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #d1bea6;
+    flex: auto;
+    color: rgb(3, 33, 59);
+    text-align: center;
+}
+
+ul {
+  list-style-type: lower-roman;
+  margin: 0 auto;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  border: 4px dashed black;
+  background-color: #faf8e6;
+  width: 500px;
+}
+
+input{
+     
+  margin: 0 auto;
+  padding: 0px;
+  background-color: #f8e9f0;
+  width: 450px;
+}
+
+button{
+    background-color: rgb(219, 148, 166);
+}
+
