@@ -1,4 +1,4 @@
-document.body.style.backgroundColor = 'pink'
+// document.body.style.backgroundColor = 'pink'
 
 const newTodo = document.querySelector('#new-todo')
 const button = document.querySelector('button')
