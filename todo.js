@@ -1,4 +1,6 @@
-// document.body.style.backgroundColor = 'pink'
+document.title = "To Do List"
+const javascript = document.querySelector('h1')
+
 
 const newTodo = document.querySelector('#new-todo')
 const button = document.querySelector('button')
